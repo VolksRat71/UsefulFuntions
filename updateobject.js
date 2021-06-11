@@ -19,7 +19,7 @@ const findAndUpdateArray = (arr, upd_arr, val) => {
 
   const temp_obj = findAndUpdateObject(obj, upd_arr, val);
 
-  return arr.map((i, _) => {
+  return arr.map((_, i) => {
     return { ...temp_obj[i] };
   });
 };
