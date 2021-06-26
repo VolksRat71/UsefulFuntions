@@ -1,0 +1,23 @@
+{
+  "name": "UsefulFuntions",
+  "version": "1.0.0",
+  "description": "A glob of useful functions",
+  "main": "comparemultipuleobjects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolksRat71/UsefulFuntions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolksRat71/UsefulFuntions/issues"
+  },
+  "homepage": "https://github.com/VolksRat71/UsefulFuntions#readme",
+  "dependencies": {
+    "dot-object": "^2.1.4"
+  }
+}
